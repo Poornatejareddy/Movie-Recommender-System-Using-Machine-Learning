@@ -183,8 +183,7 @@ pyngrok
 **Poorna Teja Reddy K**
 
 💼 AI & ML Enthusiast | Explainable AI Researcher  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn or Portfolio URL]
+📧 [pore22csaiml@cmrit.ac.in](mailto:pore22csaiml@cmrit.ac.in)  
 
 ---
 
@@ -194,32 +193,5 @@ pyngrok
 🔹 Display movie posters and genres in Streamlit UI  
 🔹 Add rating-based personalization  
 🔹 Deploy backend via FastAPI or Render/HuggingFace Spaces  
-
----
-
-## 🖼️ How to Add Your Preview Image or GIF
-
-1. Create a folder named **`assets/`** in your project root:
-
-```bash
-mkdir assets
-```
-
-2. Take a screenshot or record your Streamlit app running.
-   - Use tools like **ScreenToGif** (Windows), **Peek** (Linux), or **QuickTime** (Mac).
-
-3. Save it as: `assets/movie_recommender_preview.gif`
-
-GitHub will automatically display it in your README under the Preview section.
-
----
-
-## ✅ Example Commands to Add & Commit to GitHub
-
-```bash
-git add README.md assets/movie_recommender_preview.gif
-git commit -m "Added README and app preview"
-git push origin main
-```
 
 ---
