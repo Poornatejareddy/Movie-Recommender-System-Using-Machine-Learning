@@ -9,7 +9,7 @@ The system can be run **locally** or in **Google Colab**, and includes a **Strea
 ## 🌟 Preview
 
 <p align="center">
-  <img src="assets/movie_recommender_preview.gif" alt="Movie Recommender Preview" width="800">
+  <img src="streamlit preview.png" alt="Movie Recommender Preview" width="800">
 </p>
 
 *(Preview of the Streamlit movie recommender UI)*
