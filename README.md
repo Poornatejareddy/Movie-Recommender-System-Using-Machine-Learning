@@ -138,30 +138,6 @@ Mean Precision@10 (hybrid profile): 0.3127
 
 ---
 
-## 📂 Project Structure
-
-```
-movie-recommender-ml/
-│
-├── data/
-│   └── ml-100k/                 # MovieLens dataset (automatically downloaded)
-│
-├── models/
-│   ├── item_latent_aligned.npy  # Truncated SVD embeddings
-│   ├── item_tfidf.npy           # TF-IDF feature matrix
-│   └── movie_maps.pkl           # Mappings for movie IDs
-│
-├── assets/
-│   └── movie_recommender_preview.gif  # App preview (optional)
-│
-├── Movie_Recommender_System_Using_ML.ipynb   # Main ML notebook
-├── app.py                                    # Streamlit web app
-├── requirements.txt                          # Dependencies
-└── README.md                                 # Documentation
-```
-
----
-
 ## 📦 requirements.txt
 
 ```
