@@ -56,7 +56,7 @@ The system can be run **locally** or in **Google Colab**, and includes a **Strea
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/movie-recommender-ml.git
+git clone[ https://github.com/<your-username>/movie-recommender-ml.git](https://github.com/Poornatejareddy/Movie-Recommender-System-Using-Machine-Learning.git)
 cd movie-recommender-ml
 ```
 
